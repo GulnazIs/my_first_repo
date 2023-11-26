@@ -8,4 +8,4 @@ Added text in VS Code
 
 Added text in a new branch new_branch
 
-Resolved a conflict
+Resolved a conflict in browser
