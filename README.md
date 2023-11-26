@@ -4,4 +4,4 @@ Added new text
 
 Added text in web-browser
 
-Added text in VS Codde
+Added text in VS Code
